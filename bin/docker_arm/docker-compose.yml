@@ -1,0 +1,9 @@
+version: '3'
+services:
+  drum_penguin:
+    build: .
+    ports:
+      - "7077:7077"
+    environment:
+      MIX_ENV: prod
+    # Add any other environment variables or configurations here

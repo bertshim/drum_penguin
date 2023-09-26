@@ -1,0 +1,11 @@
+{application,drum_penguin,
+             [{optional_applications,[]},
+              {applications,[kernel,stdlib,elixir,logger,cors_plug,
+                             plug_cowboy,jason,logger_file_backend,poison,
+                             yaml_elixir,myxql]},
+              {description,"drum_penguin"},
+              {modules,['Elixir.DrumPenguin.Application',
+                        'Elixir.DrumPenguin.Router']},
+              {registered,[]},
+              {vsn,"0.1.2"},
+              {mod,{'Elixir.DrumPenguin.Application',[]}}]}.
