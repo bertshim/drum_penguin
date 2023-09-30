@@ -42,7 +42,7 @@ cd bin/linux
 For Ubuntu, CentOS an most Linux on ARM architecures.
 (Tested on AWS instances on ARM chips)
 ```console
-cd bin/linux-arm
+cd bin/linux_arm
 ```
 
 # 🛠Setup a database connection 
