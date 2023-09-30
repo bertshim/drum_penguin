@@ -1,0 +1,10 @@
+{
+  "connection": {
+    "hostname": "localhost",
+    "username": "my_user",
+    "password": "my_password",
+    "database": "my_database",
+    "port" : 3306
+  }
+}
+
