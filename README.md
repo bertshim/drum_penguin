@@ -126,3 +126,13 @@ http://localhost:7077/users/name/Issac
 ![small-happy-penguin](https://github.com/bertshim/Drum-Penguin/assets/5170244/82410516-b1cb-428e-ae1f-941707de32ae)
 
 # 🍦 Enjoy Drum Penguin !
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-C493GXRGE2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-C493GXRGE2');
+</script>
