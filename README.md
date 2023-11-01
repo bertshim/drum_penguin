@@ -1,5 +1,6 @@
 # Drum Penguin
-![drum_penguin-small](https://github.com/bertshim/Drum-Penguin/assets/5170244/d565987b-69a2-4a53-ac05-706c591c2f74)
+
+![268439171-d565987b-69a2-4a53-ac05-706c591c2f74](https://github.com/bertshim/drum_penguin/assets/5170244/740e4689-a39e-47ba-83f1-5fe05e330124)
 
 Drum Penguin presents an effortless solution for establishing RESTful CRUD API servers.
 You can download the executable binaries from this repository, along with some usage examples.
@@ -123,7 +124,7 @@ Delete a row in users, where name is "Issac"
 http://localhost:7077/users/name/Issac
 ```
 
-![small-happy-penguin](https://github.com/bertshim/Drum-Penguin/assets/5170244/82410516-b1cb-428e-ae1f-941707de32ae)
+![268439235-82410516-b1cb-428e-ae1f-941707de32ae](https://github.com/bertshim/drum_penguin/assets/5170244/b0d97e75-a783-4dd4-af89-30095a96f28c)
 
 # 🍦 Enjoy Drum Penguin !
 
