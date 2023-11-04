@@ -91,6 +91,13 @@ RESTful APIs by Drum Penguin are generated based on your tables and columns. For
 | 2  | Albert  | Physics  | Ulm          |
 | 3  | Alan    | Math     | London       |
 
+## Route
+Drum Penguin uses "table" and "key-value" routing pattern.
+```console
+http://localhost:7077/users/<key#1>/<value#1>/<key#2>/<value#2>/<key#3>/<value#3> 
+```
+You can use 6 key-value pairs at most.
+The keys are names of columns and the values are the values for exact matching.
 
 ## GET
 Fetch a row from users, where the name is "Issac"
